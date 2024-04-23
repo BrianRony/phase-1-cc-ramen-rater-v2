@@ -186,13 +186,3 @@ const main = () => {
 };
 
 main();
-
-// Export functions for testing
-export {
-  displayRamens,
-  displayRamen,
-  addSubmitListener,
-  handleSubmit,
-  handleClick,
-  main,
-};
